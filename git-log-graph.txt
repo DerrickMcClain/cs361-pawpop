@@ -1,0 +1,23 @@
+﻿PawPop — CS361 Main Program - Commit Graph
+==========================================
+Repository: cs361-pawpop
+Author: Derrick McClain <mcclaide@oregonstate.edu>
+Command: git log --graph --decorate
+
+* commit 0f2ee3940d52f53c2a5f8ca8e499640686682290 (HEAD -> main, origin/main, origin/HEAD)
+| Author: Derrick McClain <mcclaide@oregonstate.edu>
+| Date:   Sun Jul 5 20:52:41 2026 -0400
+|
+|     add git log graph for assignment submission
+|
+* commit 094c0a4d0fee4241555c9bfd4bcd009cc3daf800
+| Author: Derrick McClain <mcclaide@oregonstate.edu>
+| Date:   Sun Jul 5 20:48:07 2026 -0400
+|
+|     Add Sprint 1 planning placeholder
+|
+* commit 80e49be856d9d25c0034b1ed35a459bbf76d8f08
+  Author: Derrick McClain <mcclaide@oregonstate.edu>
+  Date:   Sun Jul 5 20:43:12 2026 -0400
+
+      Initial commit: PawPop project README
